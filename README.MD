@@ -28,7 +28,12 @@ This service is for a simple banking app. It will provide APIs for the frontend 
   ```
 - [Sqlc](https://github.com/kyleconroy/sqlc#installation)
   ```bash
-  brew install golang-migrate
+  brew install sqlc
+  ```
+- [Gomock](https://github.com/golang/mock)
+
+  ```bash
+  go install github.com/golang/mock/mockgen@v1.6.0
   ```
 
 ### Setup infrastructure
