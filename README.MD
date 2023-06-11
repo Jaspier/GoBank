@@ -6,6 +6,8 @@ Learning about how to design, develop, and deploy a complete backend system from
 
 Built with Test-Driven Development (TDD).
 
+> Project is currently put on hold.
+
 ## Go bank service
 
 This service is for a simple banking app. It will provide APIs for the frontend to do following things:
